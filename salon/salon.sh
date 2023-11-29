@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PGPASSWORD='1213fcz1016'
+export PGPASSWORD='***'
 PSQL="psql --username=postgres --dbname=salon -A -t"
 
 function MENU(){
